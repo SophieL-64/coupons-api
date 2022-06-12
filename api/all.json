@@ -1,29 +1,85 @@
 [
   {
-    "id": 1,
-    "name": "Madrange – Jambon",
-    "section": "alimentaire",
-    "description": "Les jambons Madrange sont préparés avec soin à partir d'ingrédients d'origine naturelle pour le bonheur des petits et des grands. Ils sont fabriqués à partir de viande de porc français, élevés sans antibiotiques dès la fin du sevrage. De plus, Madrange respecte l'environnement en lançant son pack éco-conçu, un emballage avec -70% de plastique.",
-    "image": "https://res.cloudinary.com/couponnetwork/image/fetch/f_auto,w_400,h_400/https://www.cwallet.couponnetwork.fr/images/offers/madrange-jambon/madrange_12-21_packshot_400x400.jpg",
+    "id": 19,
+    "name": "Cours de danse au choix (salsa, rock, danse de salon) pour 1 personne",
+    "section": "loisirs",
+    "description": "Vous avez toujours rêvé d'apprendre à danser ? Nous vous proposons des cours de salsa, de rock ou danse de salon dispensés par des professionnels motivés et à l’écoute.",
+    "image": "api/src/img/img19.jpg",
     "new": true,
-    "discount-amount": "0,40 € DE RÉDUCTION",
-    "discount-base": "Sur l'achat d'un produit au choix dans l’ensemble de la gamme jambon Madrange.",
+    "discount-amount": "45 % DE RÉDUCTION",
+    "discount-base": "5 cours de danse au choix pour une personne: 21,90 € au lieu de 40 €",
     /* si discount-by-date = true => ce sera date du jour + 30 jours, sinon ce sera 30 jours après impression */
     "discount-by-date":true,
-    "discount-availability-duration": 30,
-    "tags": ["jambon", "madrange", "salé", "tranches"]
+    "discount-availability-duration": 90,
+    "tags": ["danse", "sport", "groupe", "mixte"]
   },
   {
-    "id": 2,
-    "name": "Seeberger – Fruits secs",
-    "section": "alimentaire",
-    "description": "Depuis 1844, nous sélectionnons avec passion des noix croquantes et de délicieux fruits secs pour vous offrir le meilleur de la nature. Au petit-déjeuner, au travail, entre amis pour l’apéro… Offrez-vous des moments savoureux et variez les plaisirs. Seeberger révèle votre nature gourmande.",
-    "image": "https://res.cloudinary.com/couponnetwork/image/fetch/f_auto,w_400,h_400/https://www.cwallet.couponnetwork.fr/images/offers/seeberger-fruits-secs/00301734-psd-doprint.jpg",
+    "id": 20,
+    "name": "Croisières Jean-Yves",
+    "section": "loisirs",
+    "description": "Croisière en Méditerranée au départ de Toulon ou de Sète sur des navires de petite taille. Venez découvir les splendeurs de la Sardaigne, de la Sicile et des îles grecques.",
+    "image": "api/src/img/img20.jpg",
     "new": false,
-    "discount-amount": "0,80 € DE RÉDUCTION",
-    "discount-base": "Sur l'achat d’un sachet Seeberger au choix parmi Cerneaux de Noix, Amandes, Chips de coco ou Nuts ‘n’ Berries.",
-    "discount-availability-duration":,
-    "discount-availability-date":,
-    "tags": ["fruits secs", "noix", "seeberger", "cerneaux", "salé"]
+    "discount-amount": "400 € de réduction",
+    "discount-base": "pour la réservation d'une croisière pour 2 personnes, 5 jours, 4 nuits au Départ de Toulon du 03 octobre au 25 novembre pour 799 € au lieu de 1199 €.",
+    "discount-by-date":false,
+    "discount-availability-duration": 90,
+    "tags": ["mer", "croisière", "bateau", "soleil", "visite"]
+  },
+  {
+    "id": 21,
+    "name": "Voyage à Saint-Petersbourg, la Venise du Nord pour 2 personnes",
+    "section": "loisirs",
+    "description": "Bâtie sur des marais, en plein coeur d’un estuaire sur la mer Baltique, les brumes matinales donnent à la ville une allure fantasmagorique que l’on vous invite à apprécier avant d’entamer une belle journée de visite. Saint-Pétersbourg fut édifiée pat Pierre Le Grand selon un plan orthonormé classique des villes du XVIIIe siècle. Ses rues, ses canaux et ses innombrables ponts présentent une telle unité et une si impressionnante beauté que l’on se sent pris d’une irrésistible envie de naviguer sur ses eaux (ou d’y patiner en hiver !).",
+    "image": "api/src/img/img21.jpg",
+    "new": true,
+    "discount-amount": "10 % DE RÉDUCTION",
+    "discount-base": "Hebergement 5 nuits en hôtel 4 étoiles, petit-déjeuner, vol AR depuis Paris, visite guidée avec un interprète, formalités administratives (visas...) pour 1170 € au lieu de 1300 €",
+    "discount-by-date":false,
+    "discount-availability-duration": 60,
+    "tags": ["voyage", "russie", "romantisme", "visite", "hôtel"]
+  },
+  {
+    "id": 22,
+    "name": "Séjour à Disneyland Paris pour 2 adultes + 2 enfants. 2 jours/ 2 parcs",
+    "section": "loisirs",
+    "description": "Vous avez toujours rêvé d'apprendre à danser ? Nous vous proposons des cours de salsa, de rock ou danse de salon dispensés par des professionnels motivés et à l’écoute.",
+    "image": "api/src/img/img19.jpg",
+    "new": true,
+    "discount-amount": "45 % DE RÉDUCTION",
+    "discount-base": "5 cours de danse au choix pour une personne: 21,90 € au lieu de 40 €",
+    "discount-by-date":true,
+    "discount-availability-duration": 90,
+    "tags": ["danse", "sport", "groupe", "mixte"]
+  },
+  {
+    "id": 23,
+    "name": "Croisières Jean-Yves",
+    "section": "loisirs",
+    "description": "Croisière en Méditerranée au départ de Toulon ou de Sète sur des navires de petite taille. Venez découvir les splendeurs de la Sardaigne, de la Sicile et des îles grecques.",
+    "image": "api/src/img/img20.jpg",
+    "new": false,
+    "discount-amount": "400 € de réduction",
+    "discount-base": "pour la réservation d'une croisière pour 2 personnes, 5 jours, 4 nuits au Départ de Toulon du 03 octobre au 25 novembre pour 799 € au lieu de 1199 €.",
+    "discount-by-date":false,
+    "discount-availability-duration": 90,
+    "tags": ["mer", "croisière", "bateau", "soleil", "visite"]
+  },
+  {
+    "id": 24,
+    "name": "Voyage à Saint-Petersbourg, la Venise du Nord pour 2 personnes",
+    "section": "loisirs",
+    "description": "Bâtie sur des marais, en plein coeur d’un estuaire sur la mer Baltique, les brumes matinales donnent à la ville une allure fantasmagorique que l’on vous invite à apprécier avant d’entamer une belle journée de visite. Saint-Pétersbourg fut édifiée pat Pierre Le Grand selon un plan orthonormé classique des villes du XVIIIe siècle. Ses rues, ses canaux et ses innombrables ponts présentent une telle unité et une si impressionnante beauté que l’on se sent pris d’une irrésistible envie de naviguer sur ses eaux (ou d’y patiner en hiver !).",
+    "image": "api/src/img/img21.jpg",
+    "new": true,
+    "discount-amount": "10 % DE RÉDUCTION",
+    "discount-base": "Hebergement 5 nuits en hôtel 4 étoiles, petit-déjeuner, vol AR depuis Paris, visite guidée avec un interprète, formalités administratives (visas...) pour 1170 € au lieu de 1300 €",
+    "discount-by-date":false,
+    "discount-availability-duration": 60,
+    "tags": ["voyage", "russie", "romantisme", "visite", "hôtel"]
   }
+
+
+
+
 ]
