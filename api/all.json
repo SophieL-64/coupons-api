@@ -8,7 +8,9 @@
     "new": true,
     "discount-amount": "0,40 € DE RÉDUCTION",
     "discount-base": "Sur l'achat d'un produit au choix dans l’ensemble de la gamme jambon Madrange.",
-    "discount-duration-days": 30,
+    /* si discount-by-date = true => ce sera date du jour + 30 jours, sinon ce sera 30 jours après impression */
+    "discount-by-date":true,
+    "discount-availability-duration": 30,
     "tags": ["jambon", "madrange", "salé", "tranches"]
   },
   {
@@ -20,7 +22,8 @@
     "new": false,
     "discount-amount": "0,80 € DE RÉDUCTION",
     "discount-base": "Sur l'achat d’un sachet Seeberger au choix parmi Cerneaux de Noix, Amandes, Chips de coco ou Nuts ‘n’ Berries.",
-    "discount-duration-days": 30,
+    "discount-availability-duration":,
+    "discount-availability-date":,
     "tags": ["fruits secs", "noix", "seeberger", "cerneaux", "salé"]
   }
 ]
