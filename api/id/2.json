@@ -1,0 +1,12 @@
+{
+  "id": 2,
+  "name": "Seeberger – Fruits secs",
+  "section": "alimentaire",
+  "description": "Depuis 1844, nous sélectionnons avec passion des noix croquantes et de délicieux fruits secs pour vous offrir le meilleur de la nature. Au petit-déjeuner, au travail, entre amis pour l’apéro… Offrez-vous des moments savoureux et variez les plaisirs. Seeberger révèle votre nature gourmande.",
+  "image": "https://res.cloudinary.com/couponnetwork/image/fetch/f_auto,w_400,h_400/https://www.cwallet.couponnetwork.fr/images/offers/seeberger-fruits-secs/00301734-psd-doprint.jpg",
+  "new": false,
+  "discount-amount": "0,80 € DE RÉDUCTION",
+  "discount-base": "Sur l'achat d’un sachet Seeberger au choix parmi Cerneaux de Noix, Amandes, Chips de coco ou Nuts ‘n’ Berries.",
+  "discount-duration-days": 30,
+  "tags": ["fruits secs", "noix", "seeberger", "cerneaux", "salé"]
+}

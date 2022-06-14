@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "name": "Madrange – Jambon",
+  "section": "alimentaire",
+  "description": "Les jambons Madrange sont préparés avec soin à partir d'ingrédients d'origine naturelle pour le bonheur des petits et des grands. Ils sont fabriqués à partir de viande de porc français, élevés sans antibiotiques dès la fin du sevrage. De plus, Madrange respecte l'environnement en lançant son pack éco-conçu, un emballage avec -70% de plastique.",
+  "image": "https://res.cloudinary.com/couponnetwork/image/fetch/f_auto,w_400,h_400/https://www.cwallet.couponnetwork.fr/images/offers/madrange-jambon/madrange_12-21_packshot_400x400.jpg",
+  "new": true,
+  "discount-amount": "0,40 € DE RÉDUCTION",
+  "discount-base": "Sur l'achat d'un produit au choix dans l’ensemble de la gamme jambon Madrange.",
+  "discount-duration-days": 30,
+  "tags": ["jambon", "madrange", "salé", "tranches"]
+}
