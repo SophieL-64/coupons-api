@@ -8,7 +8,6 @@
     "new": true,
     "discount-amount": "0,40 € DE RÉDUCTION",
     "discount-base": "Sur l'achat d'un produit au choix dans l’ensemble de la gamme jambon Madrange.",
-    /* si discount-by-date = true => ce sera date du jour + 30 jours, sinon ce sera 30 jours après impression */
     "discount-by-date": true,
     "discount-availability-duration": 30,
     "tags": ["jambon", "madrange", "salé", "tranches"]
@@ -22,7 +21,6 @@
     "new": false,
     "discount-amount": "0,80 € DE RÉDUCTION",
     "discount-base": "Sur l'achat d’un sachet Seeberger au choix parmi Cerneaux de Noix, Amandes, Chips de coco ou Nuts ‘n’ Berries.",
-    /* si discount-by-date = true => ce sera date du jour + 30 jours, sinon ce sera 30 jours après impression */
     "discount-by-date": true,
     "discount-availability-duration": 45,
     "tags": ["fruits secs", "noix", "seeberger", "cerneaux", "salé"]
@@ -37,7 +35,6 @@
     "new": false,
     "discount-amount": "0,70 € DE RÉDUCTION",
     "discount-base": "Sur l'achat d’un filet de mini Babybel X20",
-    /* si discount-by-date = true => ce sera date du jour + 30 jours, sinon ce sera 30 jours après impression */
     "discount-by-date": true,
     "discount-availability-duration": 45,
     "tags": ["fromage", "babybel", "lait", "enfants", "salé"]
@@ -51,7 +48,6 @@
     "new": true,
     "discount-amount": "0,40 € DE RÉDUCTION",
     "discount-base": "Sur l'achat d’une assiette mitonnée ou d’une cocotte William Saurin.",
-    /* si discount-by-date = true => ce sera date du jour + 30 jours, sinon ce sera 30 jours après impression */
     "discount-by-date": false,
     "discount-availability-duration": 30,
     "tags": [
@@ -77,7 +73,6 @@
     "new": true,
     "discount-amount": "0,30 € DE RÉDUCTION",
     "discount-base": "Sur l'achat d'un produit de la gamme Haribo Chamallows Choco (hors promotions).",
-    /* si discount-by-date = true => ce sera date du jour + 30 jours, sinon ce sera 30 jours après impression */
     "discount-by-date": false,
     "discount-availability-duration": 45,
     "tags": [
@@ -100,7 +95,6 @@
     "new": true,
     "discount-amount": "0,60 € DE RÉDUCTION",
     "discount-base": "Sur l'achat d'une boite de capsules illy® x10.",
-    /* si discount-by-date = true => ce sera date du jour + 30 jours, sinon ce sera 30 jours après impression */
     "discount-by-date": true,
     "discount-availability-duration": 45,
     "tags": [
@@ -122,7 +116,6 @@
     "new": false,
     "discount-amount": "0,50 € DE RÉDUCTION",
     "discount-base": "Sur l'achat d'un produit de la gamme de soupes La Ferme d’Anchin en format cup 300ml ou 500ml, au rayon frais.",
-    /* si discount-by-date = true => ce sera date du jour + 30 jours, sinon ce sera 30 jours après impression */
     "discount-by-date": true,
     "discount-availability-duration": 30,
     "tags": ["soupe", "potimarron", "bio", "anchin", "ferme", "salé", "plat"]
@@ -136,7 +129,6 @@
     "new": true,
     "discount-amount": "0,40 € DE RÉDUCTION",
     "discount-base": "Sur l'achat d'une bouteille d’eau minérale naturelle evian 6L",
-    /* si discount-by-date = true => ce sera date du jour + 30 jours, sinon ce sera 30 jours après impression */
     "discount-by-date": true,
     "discount-availability-duration": 30,
     "tags": ["evian", "eau", "minerale"]
@@ -150,7 +142,6 @@
     "new": false,
     "discount-amount": "0,30 € DE RÉDUCTION",
     "discount-base": "Sur l'achat d'un paquet de P’tit Sandwich façon Bretzel ou P’tit Sandwich façon Bretzel Céréales & Pavot, Brioche Pasquier.",
-    /* si discount-by-date = true => ce sera date du jour + 30 jours, sinon ce sera 30 jours après impression */
     "discount-by-date": true,
     "discount-availability-duration": 30,
     "tags": ["brioche", "pasquier", "bretzel", "sandwich", "gouter", "encas"]
@@ -164,7 +155,6 @@
     "new": true,
     "discount-amount": "30 € DE RÉDUCTION",
     "discount-base": "Sur l'achat d'un lot de 2 t-shirts ou sweat-shirt de la marque Calvin Klein",
-    /* si discount-by-date = true => ce sera date du jour + 30 jours, sinon ce sera 30 jours après impression */
     "discount-by-date": true,
     "discount-availability-duration": 45,
     "tags": ["calvin klein", "shirt", "t-shirt", "gris", "mode", "homme"]
@@ -178,7 +168,6 @@
     "new": false,
     "discount-amount": "40 € DE RÉDUCTION",
     "discount-base": "Sur l'achat d'une paire de chaussures Timberland",
-    /* si discount-by-date = true => ce sera date du jour + 30 jours, sinon ce sera 30 jours après impression */
     "discount-by-date": false,
     "discount-availability-duration": 45,
     "tags": ["timberland", "chaussures", "homme", "mode"]
@@ -192,7 +181,6 @@
     "new": true,
     "discount-amount": "5 € DE RÉDUCTION",
     "discount-base": "Sur l'achat d'un short Bluebell Retail Ltd.",
-    /* si discount-by-date = true => ce sera date du jour + 30 jours, sinon ce sera 30 jours après impression */
     "discount-by-date": true,
     "discount-availability-duration": 30,
     "tags": ["short", "bermuda", "homme", "mode", "été"]
@@ -206,7 +194,6 @@
     "new": true,
     "discount-amount": "15 € DE RÉDUCTION",
     "discount-base": "Sur l'achat d'une robe longue Dynergy.",
-    /* si discount-by-date = true => ce sera date du jour + 30 jours, sinon ce sera 30 jours après impression */
     "discount-by-date": true,
     "discount-availability-duration": 30,
     "tags": ["robe", "manches courtes", "femme", "mode", "été"]
@@ -220,7 +207,6 @@
     "new": false,
     "discount-amount": "25 € DE RÉDUCTION",
     "discount-base": "Sur l'achat d'une paire de sandales Doozoo.",
-    /* si discount-by-date = true => ce sera date du jour + 30 jours, sinon ce sera 30 jours après impression */
     "discount-by-date": false,
     "discount-availability-duration": 30,
     "tags": ["sandales", "chaussures ouvertes", "femme", "mode", "été"]
@@ -234,7 +220,6 @@
     "new": false,
     "discount-amount": "30 € DE RÉDUCTION",
     "discount-base": "Sur l'achat d'un sac ASIA GLOBAL.",
-    /* si discount-by-date = true => ce sera date du jour + 30 jours, sinon ce sera 30 jours après impression */
     "discount-by-date": true,
     "discount-availability-duration": 45,
     "tags": ["sac", "raphia", "toile", "femme", "mode", "été"]
@@ -248,7 +233,6 @@
     "new": true,
     "discount-amount": "1 € DE RÉDUCTION",
     "discount-base": "Sur l'achat d'une paires de genouillères pour bébé Uneeque.",
-    /* si discount-by-date = true => ce sera date du jour + 30 jours, sinon ce sera 30 jours après impression */
     "discount-by-date": false,
     "discount-availability-duration": 30,
     "tags": ["genouillère", "protection", "genoux", "enfant", "bébé", "mode"]
@@ -262,7 +246,6 @@
     "new": false,
     "discount-amount": "15 € DE RÉDUCTION",
     "discount-base": "Sur l'achat d'un pyjama Dynergy.",
-    /* si discount-by-date = true => ce sera date du jour + 30 jours, sinon ce sera 30 jours après impression */
     "discount-by-date": false,
     "discount-availability-duration": 45,
     "tags": ["pyjama", "dinosaures", "ensemble", "enfant", "mode"]
@@ -276,7 +259,6 @@
     "new": false,
     "discount-amount": "5 € DE RÉDUCTION",
     "discount-base": "Sur l'achat d'une paire de chaussons bébé SGPL.",
-    /* si discount-by-date = true => ce sera date du jour + 30 jours, sinon ce sera 30 jours après impression */
     "discount-by-date": false,
     "discount-availability-duration": 30,
     "tags": ["chaussons", "garçon", "fille", "enfant", "bébé", "mode"]
