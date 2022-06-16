@@ -6,10 +6,10 @@
     "description": "Les jambons Madrange sont préparés avec soin à partir d'ingrédients d'origine naturelle pour le bonheur des petits et des grands. Ils sont fabriqués à partir de viande de porc français, élevés sans antibiotiques dès la fin du sevrage. De plus, Madrange respecte l'environnement en lançant son pack éco-conçu, un emballage avec -70% de plastique.",
     "image": "https://sophiel-64.github.io/coupons-api/src/img/img01.webp",
     "new": true,
-    "discount-amount": "0,40 € DE RÉDUCTION",
-    "discount-base": "Sur l'achat d'un produit au choix dans l’ensemble de la gamme jambon Madrange.",
-    "discount-by-date": true,
-    "discount-availability-duration": 30,
+    "discountAmount": "0,40 € DE RÉDUCTION",
+    "discountBase": "Sur l'achat d'un produit au choix dans l’ensemble de la gamme jambon Madrange.",
+    "discountByDate": true,
+    "discountAvailabilityDuration": 30,
     "tags": ["jambon", "madrange", "salé", "tranches"]
   },
   {
@@ -19,10 +19,10 @@
     "description": "Depuis 1844, nous sélectionnons avec passion des noix croquantes et de délicieux fruits secs pour vous offrir le meilleur de la nature. Au petit-déjeuner, au travail, entre amis pour l’apéro… Offrez-vous des moments savoureux et variez les plaisirs. Seeberger révèle votre nature gourmande.",
     "image": "https://sophiel-64.github.io/coupons-api/src/img/img02.webp",
     "new": false,
-    "discount-amount": "0,80 € DE RÉDUCTION",
-    "discount-base": "Sur l'achat d’un sachet Seeberger au choix parmi Cerneaux de Noix, Amandes, Chips de coco ou Nuts ‘n’ Berries.",
-    "discount-by-date": true,
-    "discount-availability-duration": 45,
+    "discountAmount": "0,80 € DE RÉDUCTION",
+    "discountBase": "Sur l'achat d’un sachet Seeberger au choix parmi Cerneaux de Noix, Amandes, Chips de coco ou Nuts ‘n’ Berries.",
+    "discountByDate": true,
+    "discountAvailabilityDuration": 45,
     "tags": ["fruits secs", "noix", "seeberger", "cerneaux", "salé"]
   },
   {
@@ -32,10 +32,10 @@
     "description": "Mini Babybel, le petit fromage au lait 100% français et au goût tout doux. Protégé par sa légendaire coque en cire, c'est la portion idéale pour le goûter ! Riche en protéines et calcium, fait avec 4 ingrédients et c'est tout !",
     "image": "https://sophiel-64.github.io/coupons-api/src/img/img03.webp",
     "new": false,
-    "discount-amount": "0,70 € DE RÉDUCTION",
-    "discount-base": "Sur l'achat d’un filet de mini Babybel X20",
-    "discount-by-date": true,
-    "discount-availability-duration": 45,
+    "discountAmount": "0,70 € DE RÉDUCTION",
+    "discountBase": "Sur l'achat d’un filet de mini Babybel X20",
+    "discountByDate": true,
+    "discountAvailabilityDuration": 45,
     "tags": ["fromage", "babybel", "lait", "enfants", "salé"]
   },
   {
@@ -45,10 +45,10 @@
     "description": "Succombez au plaisir du mijoté prêt en 2 minutes ! Nos recettes sont sans conservateur ajouté et sans arômes artificiels, et Nutriscore A ou B. Profitez d’une réduction pour découvrir de nouveaux plats du quotidien !",
     "image": "https://sophiel-64.github.io/coupons-api/src/img/img04.webp",
     "new": true,
-    "discount-amount": "0,40 € DE RÉDUCTION",
-    "discount-base": "Sur l'achat d’une assiette mitonnée ou d’une cocotte William Saurin.",
-    "discount-by-date": false,
-    "discount-availability-duration": 30,
+    "discountAmount": "0,40 € DE RÉDUCTION",
+    "discountBase": "Sur l'achat d’une assiette mitonnée ou d’une cocotte William Saurin.",
+    "discountByDate": false,
+    "discountAvailabilityDuration": 30,
     "tags": [
       "plat",
       "cuisiné",
@@ -70,10 +70,10 @@
     "description": "HARIBO Chamallows Choco, le cœur moelleux de Chamallows Original enrobé d’un délicieux chocolat au lait croquant (46% pur beurre de cacao). A partager, à picorer ou à cuisiner ! Sans colorant artificiel.",
     "image": "https://sophiel-64.github.io/coupons-api/src/img/img05.webp",
     "new": true,
-    "discount-amount": "0,30 € DE RÉDUCTION",
-    "discount-base": "Sur l'achat d'un produit de la gamme Haribo Chamallows Choco (hors promotions).",
-    "discount-by-date": false,
-    "discount-availability-duration": 45,
+    "discountAmount": "0,30 € DE RÉDUCTION",
+    "discountBase": "Sur l'achat d'un produit de la gamme Haribo Chamallows Choco (hors promotions).",
+    "discountByDate": false,
+    "discountAvailabilityDuration": 45,
     "tags": [
       "dessert",
       "bonbons",
@@ -92,10 +92,10 @@
     "description": "Aujourd’hui, les capsules de café illy® en aluminium sont compatibles avec les machines à café Nespresso®*. Réalisées en aluminium pour conserver l’arôme incomparable du blend unique illy® 100% Arabica, elles sont disponibles en plusieurs intensités de goût: classico, intenso et forte en version espresso et classico lungo. Parce que le bonheur est de trouver des formes toujours nouvelles pour offrir au monde notre meilleur café.",
     "image": "https://sophiel-64.github.io/coupons-api/src/img/img06.webp",
     "new": true,
-    "discount-amount": "0,60 € DE RÉDUCTION",
-    "discount-base": "Sur l'achat d'une boite de capsules illy® x10.",
-    "discount-by-date": true,
-    "discount-availability-duration": 45,
+    "discountAmount": "0,60 € DE RÉDUCTION",
+    "discountBase": "Sur l'achat d'une boite de capsules illy® x10.",
+    "discountByDate": true,
+    "discountAvailabilityDuration": 45,
     "tags": [
       "café",
       "illy",
@@ -113,10 +113,10 @@
     "description": "La Ferme d’Anchin existe en cup de 500ml & 300ml. La Ferme d’Anchin vous propose plus d’une vingtaine de recettes qui régaleront vos papilles : Velouté de Petit pois, courgette & brocoli BIO, Velouté de Carotte, lait de coco & curcuma BIO, Suprême de Tomate, Suprême d’Asperge, Velouté de lentilles corail & cumin BIO…",
     "image": "https://sophiel-64.github.io/coupons-api/src/img/img07.webp",
     "new": false,
-    "discount-amount": "0,50 € DE RÉDUCTION",
-    "discount-base": "Sur l'achat d'un produit de la gamme de soupes La Ferme d’Anchin en format cup 300ml ou 500ml, au rayon frais.",
-    "discount-by-date": true,
-    "discount-availability-duration": 30,
+    "discountAmount": "0,50 € DE RÉDUCTION",
+    "discountBase": "Sur l'achat d'un produit de la gamme de soupes La Ferme d’Anchin en format cup 300ml ou 500ml, au rayon frais.",
+    "discountByDate": true,
+    "discountAvailabilityDuration": 30,
     "tags": ["soupe", "potimarron", "bio", "anchin", "ferme", "salé", "plat"]
   },
   {
@@ -126,10 +126,10 @@
     "description": "Toute la pureté* de l’eau minérale naturelle evian est désormais disponible en format 6 litres ! Son bouchon verseur et sa taille adaptée à la plupart des frigos en font le partenaire d’hydratation idéal pour toute la famille. 100% en matière recyclée** (rPET) et toujours recyclable, cette nouvelle fontaine 6L contient 30% de plastique en moins par rapport à un pack d’evian 6x1L et a tous les atouts pour devenir la star des grands formats !",
     "image": "https://sophiel-64.github.io/coupons-api/src/img/img08.webp",
     "new": true,
-    "discount-amount": "0,40 € DE RÉDUCTION",
-    "discount-base": "Sur l'achat d'une bouteille d’eau minérale naturelle evian 6L",
-    "discount-by-date": true,
-    "discount-availability-duration": 30,
+    "discountAmount": "0,40 € DE RÉDUCTION",
+    "discountBase": "Sur l'achat d'une bouteille d’eau minérale naturelle evian 6L",
+    "discountByDate": true,
+    "discountAvailabilityDuration": 30,
     "tags": ["evian", "eau", "minerale"]
   },
   {
@@ -139,10 +139,10 @@
     "description": "Avec le P’tit Sandwich façon Bretzel de Brioche Pasquier, mettez un grain de sel dans votre quotidien ! Sa texture moelleuse et son petit goût salé apporteront une touche d’originalité à vos sandwichs, encas salés ou même apéros dinatoires ! Le P’tit Sandwich façon Bretzel, votre allié idéal pour créer une infinité de recettes gourmandes.",
     "image": "https://sophiel-64.github.io/coupons-api/src/img/img09.webp",
     "new": false,
-    "discount-amount": "0,30 € DE RÉDUCTION",
-    "discount-base": "Sur l'achat d'un paquet de P’tit Sandwich façon Bretzel ou P’tit Sandwich façon Bretzel Céréales & Pavot, Brioche Pasquier.",
-    "discount-by-date": true,
-    "discount-availability-duration": 30,
+    "discountAmount": "0,30 € DE RÉDUCTION",
+    "discountBase": "Sur l'achat d'un paquet de P’tit Sandwich façon Bretzel ou P’tit Sandwich façon Bretzel Céréales & Pavot, Brioche Pasquier.",
+    "discountByDate": true,
+    "discountAvailabilityDuration": 30,
     "tags": ["brioche", "pasquier", "bretzel", "sandwich", "gouter", "encas"]
   },
   {
@@ -152,10 +152,10 @@
     "description": "Un basique indispensable à tout petit prix, décliné dans une large gamme de coloris qui donne envie de les collectionner ! 100% coton. Longueur dos : 68cm. existe en bleu marine et gris. Distribué par Golden Trade SRL.",
     "image": "https://sophiel-64.github.io/coupons-api/src/img/img10.png",
     "new": true,
-    "discount-amount": "30 € DE RÉDUCTION",
-    "discount-base": "Sur l'achat d'un lot de 2 t-shirts ou sweat-shirt de la marque Calvin Klein",
-    "discount-by-date": true,
-    "discount-availability-duration": 45,
+    "discountAmount": "30 € DE RÉDUCTION",
+    "discountBase": "Sur l'achat d'un lot de 2 t-shirts ou sweat-shirt de la marque Calvin Klein",
+    "discountByDate": true,
+    "discountAvailabilityDuration": 45,
     "tags": ["calvin klein", "shirt", "t-shirt", "gris", "mode", "homme"]
   },
   {
@@ -165,10 +165,10 @@
     "description": "Ces chaussures Timberland sont conçues pour garder les pieds au chaud et être aussi confortables que des basket. Pointure 40 à 47,5",
     "image": "https://sophiel-64.github.io/coupons-api/src/img/img11.png",
     "new": false,
-    "discount-amount": "40 € DE RÉDUCTION",
-    "discount-base": "Sur l'achat d'une paire de chaussures Timberland",
-    "discount-by-date": false,
-    "discount-availability-duration": 45,
+    "discountAmount": "40 € DE RÉDUCTION",
+    "discountBase": "Sur l'achat d'une paire de chaussures Timberland",
+    "discountByDate": false,
+    "discountAvailabilityDuration": 45,
     "tags": ["timberland", "chaussures", "homme", "mode"]
   },
   {
@@ -178,10 +178,10 @@
     "description": "Ce short léger offre un ajustement confortable grâce à sa légèreté, sa taille élastiquée et son cordon de serrage, complété par 3 poches",
     "image": "https://sophiel-64.github.io/coupons-api/src/img/img12.png",
     "new": true,
-    "discount-amount": "5 € DE RÉDUCTION",
-    "discount-base": "Sur l'achat d'un short Bluebell Retail Ltd.",
-    "discount-by-date": true,
-    "discount-availability-duration": 30,
+    "discountAmount": "5 € DE RÉDUCTION",
+    "discountBase": "Sur l'achat d'un short Bluebell Retail Ltd.",
+    "discountByDate": true,
+    "discountAvailabilityDuration": 30,
     "tags": ["short", "bermuda", "homme", "mode", "été"]
   },
   {
@@ -191,10 +191,10 @@
     "description": "Cette robe longue décontractée pour femme est déclinées en trois coloris et quatre tailles au choix",
     "image": "https://sophiel-64.github.io/coupons-api/src/img/img13.png",
     "new": true,
-    "discount-amount": "15 € DE RÉDUCTION",
-    "discount-base": "Sur l'achat d'une robe longue Dynergy.",
-    "discount-by-date": true,
-    "discount-availability-duration": 30,
+    "discountAmount": "15 € DE RÉDUCTION",
+    "discountBase": "Sur l'achat d'une robe longue Dynergy.",
+    "discountByDate": true,
+    "discountAvailabilityDuration": 30,
     "tags": ["robe", "manches courtes", "femme", "mode", "été"]
   },
   {
@@ -204,10 +204,10 @@
     "description": "Ces sandales pour femme sont proposées en plusieurs tailles et coloris au choix",
     "image": "https://sophiel-64.github.io/coupons-api/src/img/img14.png",
     "new": false,
-    "discount-amount": "25 € DE RÉDUCTION",
-    "discount-base": "Sur l'achat d'une paire de sandales Doozoo.",
-    "discount-by-date": false,
-    "discount-availability-duration": 30,
+    "discountAmount": "25 € DE RÉDUCTION",
+    "discountBase": "Sur l'achat d'une paire de sandales Doozoo.",
+    "discountByDate": false,
+    "discountAvailabilityDuration": 30,
     "tags": ["sandales", "chaussures ouvertes", "femme", "mode", "été"]
   },
   {
@@ -217,10 +217,10 @@
     "description": "Ce sac possède une doublure intérieure et longues poignées en PU, avec triple renfort en X et surface de personnalisation en bois",
     "image": "https://sophiel-64.github.io/coupons-api/src/img/img15.png",
     "new": false,
-    "discount-amount": "30 € DE RÉDUCTION",
-    "discount-base": "Sur l'achat d'un sac ASIA GLOBAL.",
-    "discount-by-date": true,
-    "discount-availability-duration": 45,
+    "discountAmount": "30 € DE RÉDUCTION",
+    "discountBase": "Sur l'achat d'un sac ASIA GLOBAL.",
+    "discountByDate": true,
+    "discountAvailabilityDuration": 45,
     "tags": ["sac", "raphia", "toile", "femme", "mode", "été"]
   },
   {
@@ -230,10 +230,10 @@
     "description": "Ces genouillères sont conçues pour protéger les genoux de bébé des ecchymoses et des éraflures lorsqu’il rampe et apprend à marcher",
     "image": "https://sophiel-64.github.io/coupons-api/src/img/img16.png",
     "new": true,
-    "discount-amount": "1 € DE RÉDUCTION",
-    "discount-base": "Sur l'achat d'une paires de genouillères pour bébé Uneeque.",
-    "discount-by-date": false,
-    "discount-availability-duration": 30,
+    "discountAmount": "1 € DE RÉDUCTION",
+    "discountBase": "Sur l'achat d'une paires de genouillères pour bébé Uneeque.",
+    "discountByDate": false,
+    "discountAvailabilityDuration": 30,
     "tags": ["genouillère", "protection", "genoux", "enfant", "bébé", "mode"]
   },
   {
@@ -243,10 +243,10 @@
     "description": "Ce pyjama est imprimé de différents dinosaures et peut être une bonne idée cadeau pour ses enfants",
     "image": "https://sophiel-64.github.io/coupons-api/src/img/img17.png",
     "new": false,
-    "discount-amount": "15 € DE RÉDUCTION",
-    "discount-base": "Sur l'achat d'un pyjama Dynergy.",
-    "discount-by-date": false,
-    "discount-availability-duration": 45,
+    "discountAmount": "15 € DE RÉDUCTION",
+    "discountBase": "Sur l'achat d'un pyjama Dynergy.",
+    "discountByDate": false,
+    "discountAvailabilityDuration": 45,
     "tags": ["pyjama", "dinosaures", "ensemble", "enfant", "mode"]
   },
   {
@@ -256,10 +256,10 @@
     "description": "Des chaussons en cuir et antidérapants pour bébé, pour une marche facile avec plus de sécurité",
     "image": "https://sophiel-64.github.io/coupons-api/src/img/img18.png",
     "new": false,
-    "discount-amount": "5 € DE RÉDUCTION",
-    "discount-base": "Sur l'achat d'une paire de chaussons bébé SGPL.",
-    "discount-by-date": false,
-    "discount-availability-duration": 30,
+    "discountAmount": "5 € DE RÉDUCTION",
+    "discountBase": "Sur l'achat d'une paire de chaussons bébé SGPL.",
+    "discountByDate": false,
+    "discountAvailabilityDuration": 30,
     "tags": ["chaussons", "garçon", "fille", "enfant", "bébé", "mode"]
   },
   {
@@ -269,10 +269,10 @@
     "description": "Vous avez toujours rêvé d'apprendre à danser ? Nous vous proposons des cours de salsa, de rock ou danse de salon dispensés par des professionnels motivés et à l’écoute.",
     "image": "https://sophiel-64.github.io/coupons-api/src/img/img19.jpg",
     "new": true,
-    "discount-amount": "45 % DE RÉDUCTION",
-    "discount-base": "5 cours de danse au choix pour une personne: 21,90 € au lieu de 40 €",
-    "discount-by-date":true,
-    "discount-availability-duration": 90,
+    "discountAmount": "45 % DE RÉDUCTION",
+    "discountBase": "5 cours de danse au choix pour une personne: 21,90 € au lieu de 40 €",
+    "discountByDate": true,
+    "discountAvailabilityDuration": 90,
     "tags": ["danse", "sport", "groupe", "mixte", "détente", "musique"]
   },
   {
@@ -282,11 +282,19 @@
     "description": "Croisière en Méditerranée au départ de Toulon ou de Sète sur des navires de petite taille. Venez découvir les splendeurs de la Sardaigne, de la Sicile et des îles grecques.",
     "image": "https://sophiel-64.github.io/coupons-api/src/img/img20.jpg",
     "new": false,
-    "discount-amount": "400 € de réduction",
-    "discount-base": "pour la réservation d'une croisière pour 2 personnes, 5 jours, 4 nuits au Départ de Toulon du 03 octobre au 25 novembre. 799 € au lieu de 1199 €.",
-    "discount-by-date":false,
-    "discount-availability-duration": 90,
-    "tags": ["mer", "croisière", "bateau", "soleil", "visite", "détente", "vacances"]
+    "discountAmount": "400 € de réduction",
+    "discountBase": "pour la réservation d'une croisière pour 2 personnes, 5 jours, 4 nuits au Départ de Toulon du 03 octobre au 25 novembre. 799 € au lieu de 1199 €.",
+    "discountByDate": false,
+    "discountAvailabilityDuration": 90,
+    "tags": [
+      "mer",
+      "croisière",
+      "bateau",
+      "soleil",
+      "visite",
+      "détente",
+      "vacances"
+    ]
   },
   {
     "id": 21,
@@ -295,11 +303,19 @@
     "description": "Bâtie sur des marais, en plein coeur d’un estuaire sur la mer Baltique, les brumes matinales donnent à la ville une allure fantasmagorique que l’on vous invite à apprécier avant d’entamer une belle journée de visite. Saint-Pétersbourg fut édifiée pat Pierre Le Grand selon un plan orthonormé classique des villes du XVIIIe siècle. Ses rues, ses canaux et ses innombrables ponts présentent une telle unité et une si impressionnante beauté que l’on se sent pris d’une irrésistible envie de naviguer sur ses eaux (ou d’y patiner en hiver !).",
     "image": "https://sophiel-64.github.io/coupons-api/src/img/img21.jpg",
     "new": true,
-    "discount-amount": "10 % DE RÉDUCTION",
-    "discount-base": "pour un hébergement 5 nuits en hôtel 4 étoiles, petit-déjeuner, vol AR depuis Paris, visite guidée avec un interprète, formalités administratives (visas...) pour 1170 € au lieu de 1300 €",
-    "discount-by-date":false,
-    "discount-availability-duration": 60,
-    "tags": ["voyage", "russie", "romantisme", "visite", "hôtel", "avion", "monuments"]
+    "discountAmount": "10 % DE RÉDUCTION",
+    "discountBase": "pour un hébergement 5 nuits en hôtel 4 étoiles, petit-déjeuner, vol AR depuis Paris, visite guidée avec un interprète, formalités administratives (visas...) pour 1170 € au lieu de 1300 €",
+    "discountByDate": false,
+    "discountAvailabilityDuration": 60,
+    "tags": [
+      "voyage",
+      "russie",
+      "romantisme",
+      "visite",
+      "hôtel",
+      "avion",
+      "monuments"
+    ]
   },
   {
     "id": 22,
@@ -308,11 +324,20 @@
     "description": "Prenez part à une incroyable célébration en famille ou entre amis à l'occasion de notre 30ᵉ Anniversaire ! Laissez-vous porter par la magie de Disneyland Paris et plongez dans nos univers enchantés.",
     "image": "https://sophiel-64.github.io/coupons-api/src/img/img22.jpg",
     "new": true,
-    "discount-amount": "10 % DE RÉDUCTION",
-    "discount-base": "pour la réservation d'un séjour d'une nuit dans un hôtel Disney, en semaine + les entrées 2 jours/2 parcs pour 2 adultes et 2 enfants",
-    "discount-by-date":true,
-    "discount-availability-duration": 90,
-    "tags": ["enfants", "parc", "Disney", "attractions", "famille", "hôtel", "séjour", "magie"]
+    "discountAmount": "10 % DE RÉDUCTION",
+    "discountBase": "pour la réservation d'un séjour d'une nuit dans un hôtel Disney, en semaine + les entrées 2 jours/2 parcs pour 2 adultes et 2 enfants",
+    "discountByDate": true,
+    "discountAvailabilityDuration": 90,
+    "tags": [
+      "enfants",
+      "parc",
+      "Disney",
+      "attractions",
+      "famille",
+      "hôtel",
+      "séjour",
+      "magie"
+    ]
   },
   {
     "id": 23,
@@ -321,11 +346,21 @@
     "description": "Situé aux portes du Vexin, à dix minutes de la gare de Cergy, le Golf de Cergy est membre du NGF Golf. Au cœur de la ville nouvelle, il a été créé en 1988 par l'architecte M. Gayon qui a associé parcours urbain et cadre champêtre. Le 18 trous est accessible à tous avec un parcours vallonné et varié. Un restaurant et un bar sont également disponibles sur place pour se restaurer et se détendre.",
     "image": "https://sophiel-64.github.io/coupons-api/src/img/img23.jpg",
     "new": false,
-    "discount-amount": "75 % de réduction",
-    "discount-base": "Cours collectif découverte de 5h avec 4 sceaux et balle logotée pour 1 personne à 25,90 € au lieu de 105 €",
-    "discount-by-date":false,
-    "discount-availability-duration": 60,
-    "tags": ["golf", "groupe", "nature", "soleil", "sport", "verdure", "trou", "balle", "détente"]
+    "discountAmount": "75 % de réduction",
+    "discountBase": "Cours collectif découverte de 5h avec 4 sceaux et balle logotée pour 1 personne à 25,90 € au lieu de 105 €",
+    "discountByDate": false,
+    "discountAvailabilityDuration": 60,
+    "tags": [
+      "golf",
+      "groupe",
+      "nature",
+      "soleil",
+      "sport",
+      "verdure",
+      "trou",
+      "balle",
+      "détente"
+    ]
   },
   {
     "id": 24,
@@ -334,11 +369,19 @@
     "description": "Vous souhaitez un vol en groupe, en famille ou entre amis, à deux ? Découvrez notre large choix selon vos envies au départ des bases de CHENONCEAU  AMBOISE  CHAUMONT sur LOIRE ou CHEVERNY.",
     "image": "https://sophiel-64.github.io/coupons-api/src/img/img24.jpg",
     "new": true,
-    "discount-amount": "20 € DE RÉDUCTION",
-    "discount-base": "149 € au lieu de 169 € pour un vol en montgolfière dans une nacelle de 12/18 passagers pour admirer les paysages de la vallée de la Loire au départ de Chenonceau Amboise Chaumont sur Loire et Cheverny selon les vents. Durée du vol : 1 heure. Durée de la prestation : 3 heures",
-    "discount-by-date":false,
-    "discount-availability-duration": 90,
-    "tags": ["nature", "calme", "montgolfière", "châteaux", "paysage", "famille", "ciel"]
+    "discountAmount": "20 € DE RÉDUCTION",
+    "discountBase": "149 € au lieu de 169 € pour un vol en montgolfière dans une nacelle de 12/18 passagers pour admirer les paysages de la vallée de la Loire au départ de Chenonceau Amboise Chaumont sur Loire et Cheverny selon les vents. Durée du vol : 1 heure. Durée de la prestation : 3 heures",
+    "discountByDate": false,
+    "discountAvailabilityDuration": 90,
+    "tags": [
+      "nature",
+      "calme",
+      "montgolfière",
+      "châteaux",
+      "paysage",
+      "famille",
+      "ciel"
+    ]
   },
   {
     "id": 25,
@@ -347,11 +390,21 @@
     "description": "Découvrez Paris depuis les célèbres Bateaux-Mouches, au cours d’une balade d’1h sur la plus belle avenue du monde : la Seine. Embarquez pour 15 kilomètres d’une balade mythique au cœur de la capitale, découvrez l’obélisque de la Concorde, le musée d’Orsay, le Louvre, la Conciergerie, mais aussi les 37 ponts de la capitale. Vous pourrez bien sûr contempler la cathédrale Notre-Dame, joyau gothique de Paris, et la Tour Eiffel, l’emblème de la France.",
     "image": "https://sophiel-64.github.io/coupons-api/src/img/img25.jpg",
     "new": true,
-    "discount-amount": "25 % DE RÉDUCTION",
-    "discount-base": "",
-    "discount-by-date":true,
-    "discount-availability-duration": 90,
-    "tags": ["visite", "Paris", "Seine", "bateau", "paysage", "lumières", "eau", "rivière", "monuments"]
+    "discountAmount": "25 % DE RÉDUCTION",
+    "discountBase": "",
+    "discountByDate": true,
+    "discountAvailabilityDuration": 90,
+    "tags": [
+      "visite",
+      "Paris",
+      "Seine",
+      "bateau",
+      "paysage",
+      "lumières",
+      "eau",
+      "rivière",
+      "monuments"
+    ]
   },
   {
     "id": 26,
@@ -360,11 +413,20 @@
     "description": "Découverte du monde sous-marin à l’Aquarium de Paris dans plus de 3500 m² de circuit de visite.",
     "image": "https://sophiel-64.github.io/coupons-api/src/img/img26.jpg",
     "new": true,
-    "discount-amount": "10 % DE RÉDUCTION",
-    "discount-base": "Pass annuel enfant à 45 € au lieu de 50 €",
-    "discount-by-date":true,
-    "discount-availability-duration": 30,
-    "tags": ["nature", "animaux", "poissons", "aquarium", "famille", "eau", "océan", "enfants"]
+    "discountAmount": "10 % DE RÉDUCTION",
+    "discountBase": "Pass annuel enfant à 45 € au lieu de 50 €",
+    "discountByDate": true,
+    "discountAvailabilityDuration": 30,
+    "tags": [
+      "nature",
+      "animaux",
+      "poissons",
+      "aquarium",
+      "famille",
+      "eau",
+      "océan",
+      "enfants"
+    ]
   },
   {
     "id": 27,
@@ -373,10 +435,10 @@
     "description": "Bridou Hélicoptère nous invite à survoler des merveilles du patrimoine français au cours d’un baptême de l’air de 30 minutes à vivre seul ou à deux. Au programme, les passagers pourront admirer vu du ciel, le Château de Versailles, le Château de la Madeleine, le Château de Breteuil et l’Abbaye des Vaux de Cernay. Le vol sera commenté et enrichi.",
     "image": "https://sophiel-64.github.io/coupons-api/src/img/img27.jpg",
     "new": true,
-    "discount-amount": "20 € DE RÉDUCTION",
-    "discount-base": "Un baptême de l'air en hélicoptère de 30 min pour 2 personnes. Le samedi ou dimanche de 10h à 18h. 1 coupon max par pers. 329 € au lieu de 349 €",
-    "discount-by-date":false,
-    "discount-availability-duration": 120,
+    "discountAmount": "20 € DE RÉDUCTION",
+    "discountBase": "Un baptême de l'air en hélicoptère de 30 min pour 2 personnes. Le samedi ou dimanche de 10h à 18h. 1 coupon max par pers. 329 € au lieu de 349 €",
+    "discountByDate": false,
+    "discountAvailabilityDuration": 120,
     "tags": ["château", "paysage", "hélicoptère", "ciel", "deux", "air"]
   },
   {
@@ -386,10 +448,10 @@
     "description": "Longs mouvements fluides et harmonieux, pressions glissées, effleurages pour éliminer le stress, se décontracter et dénouer les tensions musculaires.",
     "image": "https://sophiel-64.github.io/coupons-api/src/img/img28.jpg",
     "new": true,
-    "discount-amount": "50 % DE RÉDUCTION",
-    "discount-base": "Pause Douceur avec modelage relaxant corps de 60 minutes pour 35 € au lieu de 70 €.",
-    "discount-by-date":false,
-    "discount-availability-duration": 60,
+    "discountAmount": "50 % DE RÉDUCTION",
+    "discountBase": "Pause Douceur avec modelage relaxant corps de 60 minutes pour 35 € au lieu de 70 €.",
+    "discountByDate": false,
+    "discountAvailabilityDuration": 60,
     "tags": ["massage", "détente", "relaxation", "huile", "soin", "mains"]
   },
   {
@@ -399,11 +461,19 @@
     "description": "Les Ateliers de Maître Yoga enseignent le yoga Iyengar, il s’agit de Hatha Yoga, mais avec une exigence toute particulière pour l’alignement correct des postures, ce qui permet de rentrer plus profondément dans celles ci en toute sécurité et avec l’intensité requise quel que soit son physique.",
     "image": "https://sophiel-64.github.io/coupons-api/src/img/img29.jpg",
     "new": true,
-    "discount-amount": "55 % DE RÉDUCTION",
-    "discount-base": "5 cours de hatha yoga pour 45 € au lieu de 100 €.",
-    "discount-by-date":false,
-    "discount-availability-duration": 30,
-    "tags": ["yoga", "détente", "relaxation", "respiration", "posture", "souplesse", "groupe"]
+    "discountAmount": "55 % DE RÉDUCTION",
+    "discountBase": "5 cours de hatha yoga pour 45 € au lieu de 100 €.",
+    "discountByDate": false,
+    "discountAvailabilityDuration": 30,
+    "tags": [
+      "yoga",
+      "détente",
+      "relaxation",
+      "respiration",
+      "posture",
+      "souplesse",
+      "groupe"
+    ]
   },
   {
     "id": 30,
@@ -412,10 +482,10 @@
     "description": "Vivez un moment bien-être hors du temps ! Le spa SevenSeas vous ouvre grand ses portes. Lâchez prise lors d’un accès de 3h au spa pour 2 personnes. Appréciez ensuite une pause gourmande avec coupe de crémant, boisson chaude ou jus de fruits et petites douceurs sucrées. Du dimanche au vendredi, cet espace de 300 m² vous permettra de vous détendre grâce à sa piscine intérieure, sa terrasse solarium, son hammam et son sauna.",
     "image": "https://sophiel-64.github.io/coupons-api/src/img/img30.jpg",
     "new": true,
-    "discount-amount": "15 % DE RÉDUCTION",
-    "discount-base": "Accés 3h pour une personne pour 42,42 € au lieu de 49,90 €.",
-    "discount-by-date":true,
-    "discount-availability-duration": 60,
+    "discountAmount": "15 % DE RÉDUCTION",
+    "discountBase": "Accés 3h pour une personne pour 42,42 € au lieu de 49,90 €.",
+    "discountByDate": true,
+    "discountAvailabilityDuration": 60,
     "tags": ["piscine", "soleil", "hamman", "sauna", "boisson", "sucre", "eau"]
   },
   {
@@ -425,10 +495,10 @@
     "description": "Grâce aux “Faux ongles” ou “Ongles américains”, vous pouvez offrir à vos ongles une véritable séance de relooking. Pour être belle jusqu’au bout des ongles.",
     "image": "https://sophiel-64.github.io/coupons-api/src/img/img31.jpg",
     "new": true,
-    "discount-amount": "10 € DE RÉDUCTION",
-    "discount-base": "Pose complète (extensions chablons Gel UV ou capsules + finition French) pour 65 € au lieu de 75 €.",
-    "discount-by-date":false,
-    "discount-availability-duration": 90,
+    "discountAmount": "10 € DE RÉDUCTION",
+    "discountBase": "Pose complète (extensions chablons Gel UV ou capsules + finition French) pour 65 € au lieu de 75 €.",
+    "discountByDate": false,
+    "discountAvailabilityDuration": 90,
     "tags": ["beauté", "mains", "soin", "ongle", "gel", "séduction"]
   },
   {
@@ -438,10 +508,10 @@
     "description": "Le stress peut atteindre toute personne, épisodiquement ou parfois quotidiennement devenant un véritable handicap dans la vie quotidienne. Lors de ces ateliers vous disposerez d’outils et d’exercices pour apprendre à gérer votre stress.",
     "image": "https://sophiel-64.github.io/coupons-api/src/img/img32.jpg",
     "new": true,
-    "discount-amount": "10 € DE RÉDUCTION",
-    "discount-base": "Séance collective de 1h30 avec un maximum de 20 personnes pour 40 € au lieu de 50 €.",
-    "discount-by-date":true,
-    "discount-availability-duration": 120,
+    "discountAmount": "10 € DE RÉDUCTION",
+    "discountBase": "Séance collective de 1h30 avec un maximum de 20 personnes pour 40 € au lieu de 50 €.",
+    "discountByDate": true,
+    "discountAvailabilityDuration": 120,
     "tags": ["groupe", "détente", "parole", "méditation"]
   },
   {
@@ -451,10 +521,10 @@
     "description": "Le Reiki est une technique de guérison naturelle et holistique qui harmonise les différents corps et amène un retour à l’équilibre physique, mental, émotionnel et psychique.",
     "image": "https://sophiel-64.github.io/coupons-api/src/img/img33.jpg",
     "new": true,
-    "discount-amount": "40 % DE RÉDUCTION",
-    "discount-base": "Séance d'une heure pour 60 € au lieu de 100 €.",
-    "discount-by-date":false,
-    "discount-availability-duration": 180,
+    "discountAmount": "40 % DE RÉDUCTION",
+    "discountBase": "Séance d'une heure pour 60 € au lieu de 100 €.",
+    "discountByDate": false,
+    "discountAvailabilityDuration": 180,
     "tags": ["ésotérisme", "énergie", "chakras", "force", "symboles", "mains"]
   },
   {
@@ -464,11 +534,19 @@
     "description": "La réflexologie est une méthode de santé holistique (c'est-à-dire qu'elle prend en compte l'être humain dans sa totalité, physique, psychique et spirituelle) qui considère que le corps humain se reflète au niveau des pieds.",
     "image": "https://sophiel-64.github.io/coupons-api/src/img/img34.jpg",
     "new": true,
-    "discount-amount": "26 € DE RÉDUCTION",
-    "discount-base": "Séance de 60 minutes pour 44 € au lieu de 70 €.",
-    "discount-by-date":false,
-    "discount-availability-duration": 15,
-    "tags": ["massage", "détente", "relaxation", "pied", "équilibre", "thérapie", "santé"]
+    "discountAmount": "26 € DE RÉDUCTION",
+    "discountBase": "Séance de 60 minutes pour 44 € au lieu de 70 €.",
+    "discountByDate": false,
+    "discountAvailabilityDuration": 15,
+    "tags": [
+      "massage",
+      "détente",
+      "relaxation",
+      "pied",
+      "équilibre",
+      "thérapie",
+      "santé"
+    ]
   },
   {
     "id": 35,
@@ -477,10 +555,10 @@
     "description": "Trouver un équilibre émotionnel et travailler certains blocages, changer positivement vos pensées et fausses croyances, mieux vous connaître grâce à l'Ayurveda et l'intégrer à votre vie, équilibrer votre mindset (mental) et retrouver un équilibre et un très bon niveau d'énergie.",
     "image": "https://sophiel-64.github.io/coupons-api/src/img/img35.jpg",
     "new": true,
-    "discount-amount": "25 € DE RÉDUCTION",
-    "discount-base": "Séance d'une heure pour 85 € au lieu de 110 €.",
-    "discount-by-date":true,
-    "discount-availability-duration": 120,
+    "discountAmount": "25 € DE RÉDUCTION",
+    "discountBase": "Séance d'une heure pour 85 € au lieu de 110 €.",
+    "discountByDate": true,
+    "discountAvailabilityDuration": 120,
     "tags": ["coaching", "thérapie", "emotion", "équilibre", "énergie"]
   },
   {
@@ -490,10 +568,18 @@
     "description": "La fish spa : les pieds sont plongés dans un bassin rempli de petits poissons (Garra Rufa ou “poissons docteurs”). Ces derniers grignotent les peaux mortes, donnant ainsi une sensation de bien-être et de douceur. Cela permet de prendre soin de ses pieds ou tout simplement de se relaxer.",
     "image": "https://sophiel-64.github.io/coupons-api/src/img/img36.jpg",
     "new": true,
-    "discount-amount": "10 € DE RÉDUCTION",
-    "discount-base": "Scéance de 30 minutes pour 1 personne.  19 € au lieu de 29 €.",
-    "discount-by-date":false,
-    "discount-availability-duration": 60,
-    "tags": ["pied", "détente", "relaxation", "poisson", "eau", "aquarium", "peau"]
+    "discountAmount": "10 € DE RÉDUCTION",
+    "discountBase": "Scéance de 30 minutes pour 1 personne.  19 € au lieu de 29 €.",
+    "discountByDate": false,
+    "discountAvailabilityDuration": 60,
+    "tags": [
+      "pied",
+      "détente",
+      "relaxation",
+      "poisson",
+      "eau",
+      "aquarium",
+      "peau"
+    ]
   }
 ]
