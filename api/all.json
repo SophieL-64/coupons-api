@@ -102,7 +102,7 @@
   },
   {
     "id": 7,
-    "name": "Les recettes La Ferme d’Anchin – Soupes en Cup au rayon frais",
+    "name": "Soupe en Cup au rayon frais",
     "section": ["alimentaire"],
     "description": "La Ferme d’Anchin existe en cup de 500ml & 300ml. La Ferme d’Anchin vous propose plus d’une vingtaine de recettes qui régaleront vos papilles : Velouté de Petit pois, courgette & brocoli BIO, Velouté de Carotte, lait de coco & curcuma BIO, Suprême de Tomate, Suprême d’Asperge, Velouté de lentilles corail & cumin BIO…",
     "image": "https://sophiel-64.github.io/coupons-api/src/img/img07.webp",
@@ -162,7 +162,7 @@
   },
   {
     "id": 12,
-    "name": "Short de détente pour homme, couleur et taille au choix",
+    "name": "Short de détente pour homme",
     "section": ["mode"],
     "description": "Ce short léger offre un ajustement confortable grâce à sa légèreté, sa taille élastiquée et son cordon de serrage, complété par 3 poches",
     "image": "https://sophiel-64.github.io/coupons-api/src/img/img12.png",
@@ -174,7 +174,7 @@
   },
   {
     "id": 13,
-    "name": "Robe longue décontractée fendue avec manches courtes, pour femme",
+    "name": "Robe longue décontractée pour femme",
     "section": ["mode", "new"],
     "description": "Cette robe longue décontractée pour femme est déclinées en trois coloris et quatre tailles au choix",
     "image": "https://sophiel-64.github.io/coupons-api/src/img/img13.png",
@@ -278,7 +278,7 @@
   },
   {
     "id": 21,
-    "name": "Voyage à Saint-Petersbourg, la Venise du Nord pour 2 personnes",
+    "name": "Voyage à Saint-Petersbourg pour 2 pers",
     "section": ["loisirs", "new"],
     "description": "Bâtie sur des marais, en plein coeur d’un estuaire sur la mer Baltique, les brumes matinales donnent à la ville une allure fantasmagorique que l’on vous invite à apprécier avant d’entamer une belle journée de visite. Saint-Pétersbourg fut édifiée pat Pierre Le Grand selon un plan orthonormé classique des villes du XVIIIe siècle. Ses rues, ses canaux et ses innombrables ponts présentent une telle unité et une si impressionnante beauté que l’on se sent pris d’une irrésistible envie de naviguer sur ses eaux (ou d’y patiner en hiver !).",
     "image": "https://sophiel-64.github.io/coupons-api/src/img/img21.jpg",
@@ -416,7 +416,7 @@
   },
   {
     "id": 28,
-    "name": "Modelage relaxant du corps de 60 minutes chez BeautyRelax",
+    "name": "Modelage relaxant de 60 minutes",
     "section": ["bien-être"],
     "description": "Longs mouvements fluides et harmonieux, pressions glissées, effleurages pour éliminer le stress, se décontracter et dénouer les tensions musculaires.",
     "image": "https://sophiel-64.github.io/coupons-api/src/img/img28.jpg",
